@@ -10,9 +10,16 @@ from sys import exit
 THREADS = 400
 LOGO = '''
    ~ Telegram Auto Views V3 ~
-     ~ Dev: @G5_F1 ~
-          ~ Ch1: @Xx_MO_ON_xX ~
-          ~ Ch2: @hmsfails ~
+   _____                 _____           
+  / ____|               |  __ \          
+ | (___   ___  ___ _ __ | |__) | __ ___  
+  \___ \ / _ \/ _ \ '_ \|  ___/ '__/ _ \ 
+  ____) |  __/  __/ | | | |   | | | (_) |
+ |_____/ \___|\___|_| |_|_|   |_|  \___/ 
+                                         
+                                         
+          ~ Tiktok: Sumqait_Shop050 ~
+          ~ İnstagram: Sumqait_shop ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
