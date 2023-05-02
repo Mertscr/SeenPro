@@ -16,7 +16,11 @@ LOGO = '''
   \___ \ / _ \/ _ \ '_ \|  ___/ '__/ _ \ 
   ____) |  __/  __/ | | | |   | | | (_) |
  |_____/ \___|\___|_| |_|_|   |_|  \___/ 
-                                         
+                                
+<font color="blue"> SeenPro
+<font color="red"> SeenPro
+<font color="green"> SeenPro
+                          
                                          
           ~ Tiktok: Sumqait_Shop050 ~
           ~ İnstagram: Sumqait_shop ~
