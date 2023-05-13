@@ -26,4 +26,4 @@ her hansısa mesajın üzerine toxunuruq ve özel bağlantıyı kopyala edirik
 linki termuxa daxil edirik ve budur 20 saniye sonra mesajınıza baxış sayı elave edilecek.
 ```
 TOOL OWEND 
-#YAQUBİSMAYİLZADE
+#YAQUBİSMAYİLZADE#
