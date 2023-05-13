@@ -6,8 +6,8 @@
                                
 
 ## Features
-- Auto Proxy scraping ( You don't have to get proxies )
-- Auto Proxy rescraping ( Let it run for ever )
+- Auto Telegram Views V3 ( You don't have to get proxies )
+- Auto Proxy rescraping ( Qurulum Qaydası !)
 ```
 git clone https://github.com/FallenXSs/SeenPro
 ls
@@ -20,3 +20,6 @@ Install requirements
 ```
 pip install -r requirements.txt
 ```
+Telegram kanalına keçid edirik 
+hər hansısa mesajın üzərinə toxunuruq və özəl bağlantıyı kopyala edirik
+linki termuxa daxil edirik və budur 20 saniyə sonra mesajınıza baxış sayı əlavə ediləcək.
