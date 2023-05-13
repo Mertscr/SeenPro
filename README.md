@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```
 ```
 Telegram kanalına keçid edirik 
-hər hansısa mesajın üzərinə toxunuruq və özəl bağlantıyı kopyala edirik
-linki termuxa daxil edirik və budur 20 saniyə sonra mesajınıza baxış sayı əlavə ediləcək.
+her hansısa mesajın üzerine toxunuruq ve özel bağlantıyı kopyala edirik
+linki termuxa daxil edirik ve budur 20 saniye sonra mesajınıza baxış sayı elave edilecek.
 ```
+TOOL OWEND #YAQUB İSMAYILZADE
