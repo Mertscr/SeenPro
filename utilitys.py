@@ -22,8 +22,8 @@ BU TOOL YAQUB İSMAYILZADƏ TƏRƏFİNDƏN YAZILMIŞDIR!💌
 
                           
                                          
-          ~ Telegram: ~
-          ~ Whatsapp: ~
+          ~ Telegram:@Fivist ~
+         ~ My Channel:@WwwAzHackerCom ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
@@ -46,18 +46,18 @@ def config_loader():
 
 
 def input_loader():
-    url_input = search(r'(https?:\/\/t\.me\/)?([^/]+)/(\d+)', input(' [ INPUT ] Enter Post URL: '))
+    url_input = search(r'(https?:\/\/t\.me\/)?([^/]+)/(\d+)', input(' [ INPUT ] Paylaşımın linkini qeyd edin!: '))
     if url_input: 
         _, channel, post = url_input.groups()
         return channel, post
     else: 
-        print(' [ ERROR ] Channel Or Post Not Found!')
+        print(' [ ERROR ] Kanal veya Post Tapılmadı!')
         swait(3)
         exit()
 
 
 def display():
-    print(' [ OUTPUT ] Started ( Wait few seconds to run threads )');swait(7)
+    print(' [ OUTPUT ] Started ( 10,20 saniyə ərzində başladılır!)');swait(7)
     while int(active_count()) < THREADS-100: swait(0.05)
     system('cls' if name == 'nt' else 'clear')
     
