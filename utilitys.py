@@ -17,13 +17,13 @@ LOGO = '''
   ____) |  __/  __/ | | | |   | | | (_) |
  |_____/ \___|\___|_| |_|_|   |_|  \___/ 
                                 
-<font color="blue"> SeenPro
-<font color="red"> SeenPro
-<font color="green"> SeenPro
+BU TOOL YAQUB İSMAYILZADƏ TƏRƏFİNDƏN YAZILMIŞDIR!💌
+
+
                           
                                          
-          ~ Tiktok: Sumqait_Shop050 ~
-          ~ İnstagram: Sumqait_shop ~
+          ~ Telegram: ~
+          ~ Whatsapp: ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
