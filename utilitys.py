@@ -17,13 +17,13 @@ LOGO = '''
   ____) |  __/  __/ | | | |   | | | (_) |
  |_____/ \___|\___|_| |_|_|   |_|  \___/ 
                                 
-BU TOOL YAQUB İSMAYILZADƏ TƏRƏFİNDƏN YAZILMIŞDIR!💌
+BU TOOL MERT TARAFINDAN YAPILMIŞTIR !💌
 
 
                           
                                          
-          ~ Telegram:@Fivist ~
-         ~ My Channel:@WwwAzHackerCom ~
+          ~ Telegram:@Merttzzt ~
+         ~                      ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
